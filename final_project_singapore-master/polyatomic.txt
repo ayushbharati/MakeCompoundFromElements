@@ -1,0 +1,34 @@
+ammonium	NH4+	1+
+acetate	C2H3O2-	1-
+bicarbonate	HCO3-	1-
+bisulfate	HSO4-	1-
+bisulfite	HSO3-	1-
+bromate	BrO3-	1-
+Bromite	BrO2-	1-
+carbonate	CO32-	2-
+chlorate	ClO3-	1-
+chlorite	ClO2-	1-
+chromate	CrO42-	2-
+cyanide	CN-	1-
+dichromate	Cr2O72-	2-
+ferrocyanide	Fe(CN)64-	4-
+ferricyanide	Fe(CN)63-	3-
+hydroxide	OH-	1-
+hypobromite	BrO-	1-
+hypochlorite	ClO-	1-
+hypoiodate	IO-	1-
+iodate	IO3-	1-
+Iodite	IO2-	1-
+nitrate	NO3-	1-
+nitrite	NO2-	1-
+oxalate	C2O42-	2-
+perbromate	HBrO3-	1-
+perchlorate	ClO4-	1-
+permanganate	MnO4-	1-
+peroxide	O22-	2-
+phosphate	PO43-	3-
+sulfate	SO42-	2-
+sulfite	SO32-	2-
+thiosulfite	S2O32-	2-
+hydrogen phosphate	HPO42-	2-
+dihydrogen phosphate	H2PO4-	1-
